@@ -36,15 +36,6 @@ The models are evaluated using common classification metrics, mainly:
 - Accuracy
 - ROC AUC
 
-## Repository structure
-
-```text
-CIC_IDS2017/
-├── notebooks and experiment files for the CIC-IDS2017 dataset
-
-UNSW_NB15/
-├── notebooks and experiment files for the UNSW-NB15 dataset
-
 ## Author
 
 Denis Čumitta
