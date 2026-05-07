@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+*.csv
+*.zip
+*.h5
+*.keras
+*.pkl
+*.npy
+*.npz
